@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon issue in R programming related to creating data frames with inconsistent data types. The `bug.R` file shows the problematic code that leads to unexpected behavior and a warning message. The `bugSolution.R` file provides the corrected approach, ensuring data type consistency for reliable results.
